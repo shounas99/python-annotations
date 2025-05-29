@@ -1,2 +1,2 @@
-import src.python_annotations.user_class as c
+import src.python_annotations.type_self as ts
 
