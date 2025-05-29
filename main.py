@@ -1,2 +1,2 @@
-import src.python_annotations.alias as a
+import src.python_annotations.user_class as c
 
