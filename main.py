@@ -1,2 +1,2 @@
-import src.python_annotations.type_self as ts
+import src.python_annotations.named_tuple as nt
 
